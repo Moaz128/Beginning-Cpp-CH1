@@ -1,6 +1,7 @@
 #include <iostream>
-//Included a using directive
-using namespace std;
+//Included a using decleration
+using std::cout;
+using std::endl;
 
 int main()
 {
